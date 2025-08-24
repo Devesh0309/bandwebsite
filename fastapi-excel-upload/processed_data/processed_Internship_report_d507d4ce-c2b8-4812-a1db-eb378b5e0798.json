@@ -1,0 +1,1407 @@
+[
+  {
+    "type": "paragraph",
+    "text": "INDEX",
+    "index": 0
+  },
+  {
+    "type": "paragraph",
+    "text": "ACKNOWLEDGEMENT                                                                                               2",
+    "index": 2
+  },
+  {
+    "type": "paragraph",
+    "text": "CHAPTER I: COMPANY OVERVIEW",
+    "index": 4
+  },
+  {
+    "type": "paragraph",
+    "text": " 1.1 Introduction                                                                                                                        3",
+    "index": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "              1.2 Vision and Approach                                                                                                          4",
+    "index": 8
+  },
+  {
+    "type": "paragraph",
+    "text": "              1.3 Services Offered                                                                                                  5",
+    "index": 10
+  },
+  {
+    "type": "paragraph",
+    "text": "CHAPTER II: PROJECTS UNDERTAKEN AND LEARNINGS",
+    "index": 13
+  },
+  {
+    "type": "paragraph",
+    "text": "              2.1 Job Management Portal                                                                                        8",
+    "index": 15
+  },
+  {
+    "type": "paragraph",
+    "text": "              2.2 Back-end Website                                                                                               12",
+    "index": 17
+  },
+  {
+    "type": "paragraph",
+    "text": "              2.3 VPC with servers in private subnets and NAT : -                                                     16",
+    "index": 19
+  },
+  {
+    "type": "paragraph",
+    "text": "              2.4 Maintaining, Managing, Revamping of Career Vyas and Future Scope : -                    23",
+    "index": 21
+  },
+  {
+    "type": "paragraph",
+    "text": "CHAPTER III: CHALLENGES AND LEARNINGS",
+    "index": 23
+  },
+  {
+    "type": "paragraph",
+    "text": "              3.1 Key Problems Faced and How I Solved Them                                                         28",
+    "index": 25
+  },
+  {
+    "type": "paragraph",
+    "text": "              3.2 Technical and Soft Skills Gained                                                                           28",
+    "index": 27
+  },
+  {
+    "type": "paragraph",
+    "text": "              3.3 Exposure to the Ed-Tech Domain                                                                          29",
+    "index": 29
+  },
+  {
+    "type": "paragraph",
+    "text": "CHAPTER IV: CONCLUSION",
+    "index": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "              4.1 Overall Experience Summary                                                                               30",
+    "index": 34
+  },
+  {
+    "type": "paragraph",
+    "text": "              4.2 How This Internship Helped My Professional Development                                      30",
+    "index": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "REFERENCES                                                                                                                33",
+    "index": 39
+  },
+  {
+    "type": "paragraph",
+    "text": "ACKNOWLEDGEMENT",
+    "index": 41
+  },
+  {
+    "type": "paragraph",
+    "text": "I, Kumar Devesh (21106056), would like to express my heartfelt gratitude to ServOn Solution for providing me the opportunity to undertake a six-month internship as a Full Stack Developer. This internship offered valuable hands-on experience in full stack development and also allowed me to explore additional responsibilities in the field of devops, greatly enriching my technical knowledge.",
+    "index": 43
+  },
+  {
+    "type": "paragraph",
+    "text": "I am especially thankful to my mentor, Mr. Garvit Gupta, for his constant guidance, constructive feedback, and support throughout the internship. His mentorship was instrumental in helping me apply my skills effectively and learn new concepts.",
+    "index": 44
+  },
+  {
+    "type": "paragraph",
+    "text": "I also extend my sincere thanks to Dr. Anil Kumar Yadav, my faculty supervisor at Dr. B R Ambedkar National Institute of Technology, Jalandhar, for his encouragement and academic guidance during this period.",
+    "index": 45
+  },
+  {
+    "type": "paragraph",
+    "text": "Lastly, I would like to thank all the team members at ServOn Solution for creating a collaborative and learning-focused work environment.",
+    "index": 46
+  },
+  {
+    "type": "paragraph",
+    "text": "Kumar Devesh",
+    "index": 50
+  },
+  {
+    "type": "paragraph",
+    "text": "(21106056)",
+    "index": 51
+  },
+  {
+    "type": "paragraph",
+    "text": "CHAPTER I: COMPANY OVERVIEW",
+    "index": 64
+  },
+  {
+    "type": "paragraph",
+    "text": "1.1 Introduction",
+    "index": 66
+  },
+  {
+    "type": "paragraph",
+    "text": "ServOn Solution is a dynamic and innovative B2B academic content development agency committed to delivering high-quality academic and technical solutions to EdTech companies, publication houses, businesses, and educational institutions. The company specializes in offering end-to-end content and IT services that cater to the evolving needs of the education and corporate sectors. With a deep understanding of academic frameworks and industry expectations, ServOn Solution ensures every project meets high standards of accuracy, relevance, and quality.",
+    "index": 67
+  },
+  {
+    "type": "paragraph",
+    "text": "EdTech, short for Educational Technology, refers to the use of digital tools, software, and platforms to enhance the teaching and learning process. It involves applying technology in education to make learning more effective, accessible, and engaging for students and educators alike. EdTech includes a wide range of solutions such as learning apps, online courses, smart classrooms, virtual labs, and learning management systems. These tools allow students to learn at their own pace, access quality educational resources from anywhere, and receive personalized feedback based on their performance.",
+    "index": 68
+  },
+  {
+    "type": "paragraph",
+    "text": "For teachers and institutions, EdTech simplifies classroom management, automates grading and assessments, and helps track student progress more efficiently. It also enables interactive learning through videos, animations, quizzes, and gamified content, making education more appealing and effective. In remote and underserved regions, EdTech bridges the gap by providing access to quality content and experienced educators that might not be locally available. In recent years, EdTech has become an essential part of modern education, especially with the rise of online learning during the COVID-19 pandemic.",
+    "index": 69
+  },
+  {
+    "type": "paragraph",
+    "text": "One of the core client segments served by ServOn Solution includes EdTech companies, which are part of the rapidly growing educational technology industry. EdTech, short for Educational Technology, refers to the use of digital tools and platforms to enhance the delivery, management, and accessibility of education. This includes learning apps, virtual classrooms, AI-driven tutoring platforms, learning management systems, digital labs, and assessment engines. These platforms depend heavily on structured, curriculum-aligned, and interactive content\u2014something that ServOn Solution specializes in delivering.",
+    "index": 70
+  },
+  {
+    "type": "paragraph",
+    "text": "Another major area of collaboration is with academic publishing houses that produce books, e-books, reference materials, question banks, and journals for schools, colleges, and competitive exam preparation. These organizations rely on agencies like ServOn Solution for expert content writing, editing, proofreading, formatting, and translation services to ensure accuracy, consistency, and adherence to academic standards.",
+    "index": 71
+  },
+  {
+    "type": "paragraph",
+    "text": "In addition to EdTech and publishing sectors, ServOn Solution provides tailored academic and technical solutions to corporate businesses. These solutions often support internal training, employee onboarding, upskilling, compliance programs, and client education. ServOn Solution also collaborates with educational institutions such as schools, colleges, and universities by offering services like K\u201312 curriculum development, assessment creation, e-learning module development, and study support solutions.",
+    "index": 72
+  },
+  {
+    "type": "paragraph",
+    "text": "What distinguishes ServOn Solution is its comprehensive approach. It offers not only content services but also software development and digital design solutions, making it a one-stop destination for organizations aiming to develop or expand their educational offerings. The agency\u2019s expertise includes UI/UX design, app and web development, content digitization, and localization\u2014ensuring the final product is both academically sound and technically effective.",
+    "index": 73
+  },
+  {
+    "type": "paragraph",
+    "text": "The team at ServOn Solution comprises instructional designers, subject matter experts, writers, editors, translators, developers, and designers who work in coordination to deliver end-to-end solutions. The company follows a client-first philosophy, focusing on the individual needs of each partner and aligning its services with their strategic goals and target audience.",
+    "index": 74
+  },
+  {
+    "type": "paragraph",
+    "text": "By integrating modern technology, agile workflows, and education-focused practices, ServOn Solution consistently delivers scalable, high-impact solutions that help clients achieve their academic and business goals efficiently and effectively.",
+    "index": 75
+  },
+  {
+    "type": "paragraph",
+    "text": "1.2 Vision and Approach",
+    "index": 77
+  },
+  {
+    "type": "paragraph",
+    "text": "At ServOn Solution, the team leverages modern technologies and agile methodologies to deliver  scalable, efficient, and high-impact solutions. With a strong focus on innovation, user experience, and outcome-driven execution, the organization continuously adapts to the latest trends and tools to stay ahead in the competitive content development and IT landscape.",
+    "index": 78
+  },
+  {
+    "type": "paragraph",
+    "text": "Their goal is not only to provide services but to form long-term partnerships that help clients achieve their academic, digital, and business milestones effectively and consistently.",
+    "index": 79
+  },
+  {
+    "type": "paragraph",
+    "text": "As an academic content management company, we understand the importance of producing high-quality content that accurately reflects the test material and effectively prepares students for the exam. To consistently achieve this, we follow a rigorous process that involves a team of subject matter experts, editors, and quality assurance specialists. Our subject matter experts thoroughly research and analyze the exam material to ensure that the content we produce is up-to-date and relevant. They then create a detailed outline of the content, which is reviewed by our editors for accuracy, clarity, and consistency. Once the content is written, it goes through a series of quality checks to ensure that it meets our standards. We use a combination of manual and automated checks to identify errors, inconsistencies, and other issues. Any issues are flagged and addressed promptly to ensure that our content is of the highest quality. We also use feedback from students and instructors to continually improve our content. This feedback is carefully reviewed and incorporated into our content development process. The team also provided ongoing support to the publishing company, developing new content as needed and ensuring that all content was delivered within the specified deadlines. The result was a successful publishing campaign that met the needs of the readers and increased the company's revenue.",
+    "index": 80
+  },
+  {
+    "type": "paragraph",
+    "text": "We provide highly qualified tutors who are subject matter experts and possess exceptional teaching skills. Offering customized lesson plans based on each student's strengths and weaknesses can make a tutoring platform stand out from competitors. This approach can help to target areas where students need the most support and build their confidence in those areas.Offering personalized learning resources to students, such as e-books, online courses, and educational games, can make a tutoring platform stand out from competitors. These resources can be customized to suit individual students' learning needs and preferences, making the learning experience more engaging and effective.",
+    "index": 82
+  },
+  {
+    "type": "paragraph",
+    "text": "The team also provided ongoing support to the publishing company, developing new content as needed and ensuring that all content was delivered within the specified deadlines. The result was a successful publishing campaign that met the needs of the readers and increased the company's revenue.",
+    "index": 83
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 1.1: Vision and approach",
+    "index": 86
+  },
+  {
+    "type": "paragraph",
+    "text": "1.3 Services Offered",
+    "index": 89
+  },
+  {
+    "type": "paragraph",
+    "text": "1. K\u201312 Curriculum Design :-",
+    "index": 91
+  },
+  {
+    "type": "paragraph",
+    "text": "We provide K\u201312 curriculum design services for educational institutions. Our team of instructional designers and subject matter experts works with educators to develop effective and impactful curriculum materials that are aligned with industry standards.",
+    "index": 92
+  },
+  {
+    "type": "paragraph",
+    "text": "2. Editorial & Publishing Services :-",
+    "index": 94
+  },
+  {
+    "type": "paragraph",
+    "text": "Our editorial and publishing services help authors and publishers bring their work to the market. Our team of editors and publishing experts provide editing, proofreading, formatting, and publishing services to ensure that the final product meets the highest standards of quality.",
+    "index": 95
+  },
+  {
+    "type": "paragraph",
+    "text": "3. Translation :-",
+    "index": 97
+  },
+  {
+    "type": "paragraph",
+    "text": "We provide translation services to help businesses and organizations communicate effectively across language barriers. Our team of experienced translators accurately translates content into multiple languages, enabling businesses to connect with a global audience.",
+    "index": 98
+  },
+  {
+    "type": "paragraph",
+    "text": "4. Article Writing :-",
+    "index": 100
+  },
+  {
+    "type": "paragraph",
+    "text": "Our article-writing services help businesses and individuals create compelling and informative content. Our team of experienced writers produces high-quality articles on a range of topics, tailored to the specific needs of our clients.",
+    "index": 101
+  },
+  {
+    "type": "paragraph",
+    "text": "5. Digitalisation :-",
+    "index": 103
+  },
+  {
+    "type": "paragraph",
+    "text": "Our digitization services help businesses and organizations digitize their content as per the need of their product and target audience. We make sure that content is as per the standard of the client\u2019s user.",
+    "index": 104
+  },
+  {
+    "type": "paragraph",
+    "text": "6. Assessment Development :-",
+    "index": 106
+  },
+  {
+    "type": "paragraph",
+    "text": "We provide assessment development services to educational institutions. Our team of assessment experts designs and develops assessments that are aligned with industry standards and accurately measure student learning outcomes.",
+    "index": 107
+  },
+  {
+    "type": "paragraph",
+    "text": "7. Digital Content Development :-",
+    "index": 109
+  },
+  {
+    "type": "paragraph",
+    "text": "Our digital content development services include creating text and video content that's engaging and informative for our clients. Our team of experienced content creators uses the latest technology and tools to produce visually appealing content that resonates with your audience.",
+    "index": 110
+  },
+  {
+    "type": "paragraph",
+    "text": "8. Data Annotation :-",
+    "index": 112
+  },
+  {
+    "type": "paragraph",
+    "text": "Our article-writing services help businesses and individuals create compelling and informative content. Our team of experienced writers produces high-quality articles on a range of topics, tailored to the specific needs of our clients.",
+    "index": 113
+  },
+  {
+    "type": "paragraph",
+    "text": "9. Study and Tutor Support :-",
+    "index": 115
+  },
+  {
+    "type": "paragraph",
+    "text": "We offer study and tutor support services to help students achieve academic success. Our experienced tutors provide one-on-one support, tailored to the individual student's needs, to help them overcome academic challenges and excel in their studies.",
+    "index": 116
+  },
+  {
+    "type": "paragraph",
+    "text": "10. Localisation :-",
+    "index": 118
+  },
+  {
+    "type": "paragraph",
+    "text": "Our localization services help businesses and organizations expand their reach globally. Our team of localization experts ensures that content is culturally relevant and accurately translated, enabling businesses to connect with their target audience.",
+    "index": 119
+  },
+  {
+    "type": "paragraph",
+    "text": "11. UI/UX Design :-",
+    "index": 120
+  },
+  {
+    "type": "paragraph",
+    "text": "Our UI/UX design team creates user-friendly and visually appealing interfaces that enhance the user experience. We use the latest design tools and techniques to create interfaces that are intuitive, engaging, and tailored to the specific needs of our clients.",
+    "index": 121
+  },
+  {
+    "type": "paragraph",
+    "text": "12. IT Solutions (App & Web Development) :-",
+    "index": 123
+  },
+  {
+    "type": "paragraph",
+    "text": "We provide IT solutions, including app and web development, to help businesses stay competitive and deliver their products and services efficiently. Our experienced developers use the latest technology and tools to create custom solutions that meet the unique needs of our clients.  ",
+    "index": 124
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 1.2: Services Offered by ServOn Solutions",
+    "index": 127
+  },
+  {
+    "type": "paragraph",
+    "text": "CHAPTER II: PROJECTS UNDERTAKEN AND LEARNINGS",
+    "index": 132
+  },
+  {
+    "type": "paragraph",
+    "text": "During my internship at ServOn Solution, I contributed to a diverse range of projects covering front-end development, back-end development, and DevOps. These projects were a mix of client assignments and internal learning-based implementations.",
+    "index": 133
+  },
+  {
+    "type": "paragraph",
+    "text": "I began by working on a job management portal for a client, a full stack web application designed to streamline the recruitment process. Following that, I developed a back-end project\u2014a Tornado-based application that extracts metadata from uploaded files\u2014intended to strengthen my understanding of server-side development and database integration.",
+    "index": 134
+  },
+  {
+    "type": "paragraph",
+    "text": "I then worked on Career Vyas, a full stack platform aimed at providing counseling and career guidance to JEE and NEET aspirants. This project gave me deeper exposure to building user centric educational tools.",
+    "index": 135
+  },
+  {
+    "type": "paragraph",
+    "text": "Lastly, I contributed to the DevOps side by setting up a Virtual Private Cloud (VPC) on AWS, while also gaining experience in deployment automation and infrastructure monitoring. The detailed breakdown of each contribution is presented in the sections below.",
+    "index": 136
+  },
+  {
+    "type": "paragraph",
+    "text": "2.1 Job Management Portal",
+    "index": 137
+  },
+  {
+    "type": "paragraph",
+    "text": "In today\u2019s dynamic talent landscape, organizations must process large volumes of applications quickly and accurately. Manual methods\u2014such as tracking candidates via spreadsheets or email chains\u2014are not only labor-intensive but also susceptible to data loss, version conflicts, and human error. A centralized Job Management Portal automates repetitive tasks like application parsing, status updates, and communications, freeing HR teams to focus on strategic decision-making rather than administrative overhead.",
+    "index": 138
+  },
+  {
+    "type": "paragraph",
+    "text": "Moreover, as companies grow and hiring needs become more specialized, the ability to categorize and filter applicants by skill set, experience level, or assessment results becomes invaluable. Portals provide real-time dashboards and analytics\u2014such as time-to-hire metrics, drop-off rates at each recruitment stage, and source effectiveness\u2014that empower recruiters to continuously refine their processes and allocate resources efficiently. This data-driven approach not only accelerates hiring cycles but also reduces costs associated with prolonged vacancies.",
+    "index": 139
+  },
+  {
+    "type": "paragraph",
+    "text": "In an era of remote work and global talent pools, maintaining a consistent and professional candidate experience is critical for employer branding. A well-designed portal delivers branded interfaces, automated notifications, and self-service features (e.g., resume upload, assessment scheduling), ensuring candidates feel engaged and informed throughout the process. Finally, by enforcing standardized workflows and providing audit trails, these systems help organizations remain compliant with labor regulations and data-privacy laws, safeguarding both the company and its applicants.As part of a client-facing assignment, I developed the frontend of a Job Management Portal using React.js. This platform was designed to simplify and streamline the recruitment workflow by allowing administrators to manage job postings, track applicants, and assign assessments to candidates.",
+    "index": 140
+  },
+  {
+    "type": "paragraph",
+    "text": "The application consisted of three main pages:",
+    "index": 141
+  },
+  {
+    "type": "paragraph",
+    "text": "Admin Login Page",
+    "index": 142
+  },
+  {
+    "type": "paragraph",
+    "text": "Job Management Page",
+    "index": 143
+  },
+  {
+    "type": "paragraph",
+    "text": "Assignment Page",
+    "index": 144
+  },
+  {
+    "type": "paragraph",
+    "text": "Key Highlights:",
+    "index": 145
+  },
+  {
+    "type": "paragraph",
+    "text": "Built with React.js using a modular, component-based structure",
+    "index": 146
+  },
+  {
+    "type": "paragraph",
+    "text": "Responsive and user-friendly UI for seamless navigation",
+    "index": 147
+  },
+  {
+    "type": "paragraph",
+    "text": "API-ready frontend structure for easy backend integration",
+    "index": 148
+  },
+  {
+    "type": "paragraph",
+    "text": "Emphasis on usability and clean interface design tailored to client requirements",
+    "index": 149
+  },
+  {
+    "type": "paragraph",
+    "text": "Although the backend integration was not part of the scope, the frontend was built to support future connection with APIs. This project strengthened my ability to design real-world interfaces and understand the practical needs of HR workflow systems in client environments. The portal was fully responsive, ensuring smooth usability across desktops, tablets, and mobile devices without compromising on layout or functionality. Here is description of it\u2019s features :-",
+    "index": 150
+  },
+  {
+    "type": "paragraph",
+    "text": "1. Admin Page :-",
+    "index": 151
+  },
+  {
+    "type": "paragraph",
+    "text": "The Admin Login Page serves as the secure entry point to the Job Management Portal. It features a visually appealing dark-themed background with a clean and minimalistic design. The page includes a centered welcome message and a clearly styled \"Admin Login\" button, guiding authorized users to access the admin dashboard.",
+    "index": 152
+  },
+  {
+    "type": "paragraph",
+    "text": "The layout is fully responsive, ensuring a consistent experience across devices. The design emphasizes clarity and simplicity, aligning with modern UI standards while maintaining a professional look suited for enterprise use.",
+    "index": 153
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.01: Admin login Page",
+    "index": 164
+  },
+  {
+    "type": "paragraph",
+    "text": "2. Job Management Page :-",
+    "index": 165
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.02: Job Postings Management Page",
+    "index": 167
+  },
+  {
+    "type": "paragraph",
+    "text": "The Job Management Page was developed using React.js and serves as the central admin interface for handling job-related operations. The layout is component-driven and responsive, built with a clean card-based UI. It uses functional components, React Hooks for state management (useState, useEffect), and props to dynamically render job listings.",
+    "index": 168
+  },
+  {
+    "type": "paragraph",
+    "text": "The page displays job cards using reusable React components. Each card includes the job title, a brief description, and the number of candidates who have applied. The data is maintained in a state variable and updated in real time upon adding or deleting a job entry.",
+    "index": 169
+  },
+  {
+    "type": "paragraph",
+    "text": "CRUD functionalities are integrated into each job card. Administrators can add a job by filling in the job title and description fields. Submitting this form updates the job list and re-renders the UI. The edit feature opens a form with pre-filled values for modifying existing job details. The delete option removes a job from the state. The \"View\" button allows navigation to a page showing detailed candidate information for each specific job. Navigation and routing are handled using react-router-dom.",
+    "index": 170
+  },
+  {
+    "type": "paragraph",
+    "text": "Form handling includes input validation to prevent submission of empty fields. Controlled components and onChange handlers are used to synchronize form inputs with state.",
+    "index": 171
+  },
+  {
+    "type": "paragraph",
+    "text": "Navigation buttons at the bottom of the page provide access to the home screen and the assessment creation page. These buttons use the Link component from react-router-dom to enable smooth client-side routing without full page reloads.",
+    "index": 172
+  },
+  {
+    "type": "paragraph",
+    "text": "Styling is implemented with a dark theme and consistent UI elements. Buttons are color-coded based on their function for better visual distinction (Edit \u2013 grey, Delete \u2013 red, View \u2013 blue). The layout is designed to be fully responsive, ensuring a consistent user experience across various screen sizes including desktops, tablets, and mobile devices.",
+    "index": 173
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.03: Details of candidates on pressing view button",
+    "index": 175
+  },
+  {
+    "type": "paragraph",
+    "text": "3. Assessment Page :-",
+    "index": 177
+  },
+  {
+    "type": "paragraph",
+    "text": "The Assignment Setup Page allows administrators to create and manage assessments linked to specific job postings. This page is designed to ensure that each assignment is job-specific and can be dynamically associated with newly created job entries.",
+    "index": 178
+  },
+  {
+    "type": "paragraph",
+    "text": "A key feature of this page is the drop-down menu that lists all available jobs. This drop-down is dynamically populated using data stored in the browser's local storage. Whenever a new job is added via the Job Management Page, it is also saved to local storage. The Assignment Page then reads from local storage to reflect the updated list in real time, ensuring consistency across the application without requiring back-end integration.",
+    "index": 179
+  },
+  {
+    "type": "paragraph",
+    "text": "The interface contains two primary buttons: \"New Assignment\" and \"Saved Assignments\". Clicking \"New Assignment\" enables the admin to select a job from the drop-down and proceed to input a set of questions. The form typically allows entering questions one by one or in batches, which are then saved to local storage or state, depending on the implementation. This modular design enables each job to have a distinct set of questions mapped to it.",
+    "index": 180
+  },
+  {
+    "type": "paragraph",
+    "text": "The \"Saved Assignments\" button displays a list of all previously created assessments. These are retrieved from local storage and presented in an organized manner, often grouped by job title. This feature allows administrators to review, edit, or reuse previously created assessments without having to re-enter questions.",
+    "index": 181
+  },
+  {
+    "type": "paragraph",
+    "text": "The page is built using React.js and maintains a responsive layout for usability across devices. State is managed locally using React Hooks, and local storage is accessed via the window.localstorage API. Conditional rendering is used to toggle between form views and saved assignment views based on the selected action.",
+    "index": 182
+  },
+  {
+    "type": "paragraph",
+    "text": "This page highlights the use of persistent client-side data handling through local storage, dynamic UI rendering, and job-specific data association, which together make the assessment creation process efficient and modular.",
+    "index": 183
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.04 : Assessment Page",
+    "index": 184
+  },
+  {
+    "type": "paragraph",
+    "text": "2.2 Back-End Website : -",
+    "index": 186
+  },
+  {
+    "type": "paragraph",
+    "text": "The application\u2019s backend is built using Tornado, which offers non-blocking, event-driven architecture suitable for handling concurrent requests. The file upload feature is handled via a POST request at a specified endpoint, where uploaded files are received, stored temporarily, and processed for metadata extraction.",
+    "index": 187
+  },
+  {
+    "type": "paragraph",
+    "text": "Key functionalities of the application include:",
+    "index": 188
+  },
+  {
+    "type": "paragraph",
+    "text": "File upload handling: Files are uploaded using multipart form data and handled asynchronously using Tornado\u2019s built-in request handlers.",
+    "index": 189
+  },
+  {
+    "type": "paragraph",
+    "text": "Metadata extraction: For each uploaded file, the system retrieves basic metadata such as original filename, file size, creation time, and last modified timestamp using Python\u2019s os and time modules.",
+    "index": 190
+  },
+  {
+    "type": "paragraph",
+    "text": "Character count: In the case of .txt and other readable formats, the content of the file is parsed to count the number of characters and store it as part of the metadata.",
+    "index": 191
+  },
+  {
+    "type": "paragraph",
+    "text": "PostgreSQL integration: The extracted metadata is stored in a PostgreSQL database using psycopg2, enabling persistent storage and easy retrieval for further use or analytics.",
+    "index": 192
+  },
+  {
+    "type": "paragraph",
+    "text": "API routes: The application includes clearly defined routes for uploading files and viewing metadata results. These endpoints follow RESTful conventions for simplicity and clarity.",
+    "index": 193
+  },
+  {
+    "type": "paragraph",
+    "text": "The application is containerized using Docker, making it portable and easy to deploy across different environments. A Dockerfile was written to define the build instructions and expose the application on a specified port.",
+    "index": 194
+  },
+  {
+    "type": "paragraph",
+    "text": "This project gave me practical exposure to asynchronous web programming, back-end architecture, API development, and database interaction, and it significantly improved my back-end development capabilities.",
+    "index": 195
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.05: Tornado back-end",
+    "index": 197
+  },
+  {
+    "type": "paragraph",
+    "text": "The core functionality of the Tornado-based web application lies in its ability to extract relevant metadata from user-uploaded files. When a user uploads a file through the web interface, the request is sent to a Tornado endpoint using the POST method with multipart encoding. Tornado\u2019s non-blocking request handler captures the uploaded file, temporarily saves it on the server, and proceeds to extract various metadata attributes using standard Python libraries.",
+    "index": 198
+  },
+  {
+    "type": "paragraph",
+    "text": "The application uses Python's built-in os module to access file properties such as the original filename, file path, and file size in bytes. To determine the creation and last modification times of the file, the os.path.getctime() and os.path.getmtime() functions are used, respectively. These timestamps are converted into human-readable format using the time module, which allows better interpretation and storage of the data. This information is crucial for tracking file histories and performing data audits.",
+    "index": 199
+  },
+  {
+    "type": "paragraph",
+    "text": "In the case of text-based files (such as .txt), the application reads the contents of the file to calculate the total number of characters. This is achieved by decoding the byte stream into text and using Python\u2019s len() function to count the number of characters present. The logic includes basic checks to ensure binary files or unsupported formats are excluded from character analysis to avoid processing errors.",
+    "index": 200
+  },
+  {
+    "type": "paragraph",
+    "text": "Once all metadata is extracted, it is either returned as a JSON response to the client or inserted into a PostgreSQL database for persistent storage. This dual-path approach supports both immediate viewing and long-term storage of metadata, enabling future retrieval or integration into larger systems. The entire process is efficient, asynchronous, and scalable\u2014thanks to Tornado\u2019s event-driven architecture\u2014making the application well-suited for handling multiple concurrent uploads in real time.",
+    "index": 201
+  },
+  {
+    "type": "paragraph",
+    "text": "Here are a few technical tools that I used :-",
+    "index": 202
+  },
+  {
+    "type": "paragraph",
+    "text": "1. Tornado (Python Web Framework) :-",
+    "index": 203
+  },
+  {
+    "type": "paragraph",
+    "text": "Tornado is a Python-based web framework and asynchronous networking library designed to handle large numbers of simultaneous client connections. Unlike traditional web frameworks that use multi-threaded or multi-process architectures, Tornado uses a single-threaded, non-blocking I/O loop that makes it highly efficient and suitable for I/O-bound applications such as file uploads, WebSockets, and long polling. In the context of my project, Tornado served as the backbone of the backend server responsible for handling file upload requests and returning extracted metadata to the client.",
+    "index": 204
+  },
+  {
+    "type": "paragraph",
+    "text": "The project architecture involved defining custom request handlers by subclassing Tornado\u2019s RequestHandler. Each route (e.g., /upload) was tied to a handler function that processed the incoming file. Using Python's os and time libraries, I extracted details like filename, creation time, last modification time, and character count. These details were returned in a JSON response and stored in a PostgreSQL database for future access. Tornado\u2019s asynchronous architecture allowed multiple files to be processed concurrently without blocking the main thread, resulting in better responsiveness and performance.",
+    "index": 205
+  },
+  {
+    "type": "paragraph",
+    "text": "Another strength of Tornado lies in its native support for handling raw HTTP requests and multipart form data. This flexibility gave me deeper insight into how HTTP protocols and file streams are processed at the backend level. Unlike higher-level frameworks like Flask or Django, Tornado does not abstract away the complexities of handling requests, which proved beneficial for learning and hands-on debugging. I was able to customize file handling behaviors, manage errors gracefully, and log detailed information during processing.",
+    "index": 206
+  },
+  {
+    "type": "paragraph",
+    "text": "Overall, Tornado was an excellent choice for this backend-focused project. It not only helped me understand the internal workings of web servers and asynchronous request handling, but also gave me practical experience in writing scalable and non-blocking Python services. This experience laid a strong foundation for working with event-driven architectures and microservices in the future.\t",
+    "index": 207
+  },
+  {
+    "type": "paragraph",
+    "text": "2. PostgreSQL (Relational Database System)",
+    "index": 208
+  },
+  {
+    "type": "paragraph",
+    "text": "PostgreSQL served as the relational database management system for storing metadata extracted from uploaded files. Known for its robustness, ACID compliance, and support for advanced SQL features, PostgreSQL was an ideal choice for this application. It provided a structured and reliable environment for managing file metadata, enabling me to gain hands-on experience in schema design, query optimization, and database integration with Python.",
+    "index": 209
+  },
+  {
+    "type": "paragraph",
+    "text": "I used the psycopg2 library to interact with PostgreSQL from the Tornado backend. Upon each file upload, the backend script generated metadata such as filename, file size, character count, creation and modification timestamps, and stored this information in a dedicated table. The schema was carefully designed with appropriate data types to ensure that metadata could be efficiently queried, filtered, or aggregated if needed in the future.",
+    "index": 210
+  },
+  {
+    "type": "paragraph",
+    "text": "The integration of PostgreSQL introduced me to essential backend concepts such as database connection pooling, SQL injection prevention, and transaction handling. I learned how to manage database cursors, commit transactions, and gracefully handle exceptions to prevent data corruption. Additionally, I implemented basic validation checks and uniqueness constraints to ensure data consistency.",
+    "index": 211
+  },
+  {
+    "type": "paragraph",
+    "text": "Working with PostgreSQL also improved my understanding of how backend systems interact with persistent storage. It highlighted the importance of indexing, query planning, and normalization in optimizing application performance. This practical exposure to relational databases has prepared me to build and maintain data-driven backend systems confidently in larger and more complex projects.",
+    "index": 212
+  },
+  {
+    "type": "paragraph",
+    "text": "3. Docker (Containerization and Deployment)",
+    "index": 213
+  },
+  {
+    "type": "paragraph",
+    "text": "Docker played a crucial role in packaging and deploying the Tornado Metadata Extractor as a self-contained application. Using Docker, I was able to isolate the application along with its dependencies into a single container image, making it highly portable and reproducible across different environments. This experience introduced me to core DevOps practices, particularly related to containerization, image management, and deployment workflows.",
+    "index": 214
+  },
+  {
+    "type": "paragraph",
+    "text": "I wrote a custom Dockerfile that specified the base Python image, installed necessary packages, copied the project files, and executed the Tornado server as the container\u2019s entry point. The Docker image exposed the appropriate port to allow external HTTP requests to reach the Tornado application. This setup ensured that anyone running the image could deploy the service locally or on cloud infrastructure without manual dependency installation or environment configuration.",
+    "index": 215
+  },
+  {
+    "type": "paragraph",
+    "text": "Containerization also enabled smoother collaboration and testing. I was able to test different versions of the application by building multiple tagged images and running them in isolated containers. This eliminated environment-specific bugs and simplified the debugging process. In addition, Docker Compose could be used in future iterations to define multi-container applications if, for example, a separate PostgreSQL container is needed for full-stack deployment.",
+    "index": 216
+  },
+  {
+    "type": "paragraph",
+    "text": "Through Docker, I also became familiar with best practices such as minimizing image size, organizing Dockerfile instructions efficiently, and managing volumes for data persistence. These lessons are vital for real-world software deployment and have significantly improved my readiness for production-grade backend development and DevOps collaboration.",
+    "index": 217
+  },
+  {
+    "type": "paragraph",
+    "text": "4. HTML & CSS (Minimal Frontend Interface)",
+    "index": 218
+  },
+  {
+    "type": "paragraph",
+    "text": "Although the project was backend-focused, I implemented a minimal web interface using HTML and CSS to facilitate file uploads through a browser. This allowed me to test the backend endpoints without relying on tools like Postman or cURL, and also provided a basic user-friendly interface for interaction. The simplicity of the frontend served its purpose effectively while still adhering to modern layout and styling principles.",
+    "index": 219
+  },
+  {
+    "type": "paragraph",
+    "text": "The HTML form consisted of a file input element and a submit button that sent the selected file to the /upload endpoint using the POST method with multipart form data encoding. On submission, the form triggered the Tornado backend\u2019s upload handler, and the metadata extracted was displayed directly in the browser or returned as a JSON response. This basic form was helpful in testing the entire request-response cycle and debugging file handling issues visually.",
+    "index": 220
+  },
+  {
+    "type": "paragraph",
+    "text": "For styling, I used basic CSS to center elements, apply padding, and ensure responsiveness across devices. Although no frontend framework was used, the interface was clean, accessible, and served as a lightweight client for the backend API. It demonstrated the importance of having even a simple UI for backend services that require user interaction.",
+    "index": 221
+  },
+  {
+    "type": "paragraph",
+    "text": "Building this frontend gave me a complete view of full request cycles\u2014from user action in the browser to server processing and database interaction. It also reinforced how backend services can be built independently yet be easily testable through simple HTML/CSS interfaces before full frontend integration.",
+    "index": 222
+  },
+  {
+    "type": "paragraph",
+    "text": "2.3 VPC with servers in private subnets and NAT : -",
+    "index": 223
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.06: VPC",
+    "index": 224
+  },
+  {
+    "type": "paragraph",
+    "text": "During my internship, my company also allotted me the task of designing and deploying a secure and scalable cloud infrastructure using AWS. The objective was to create a production-grade environment where application servers are hosted in private subnets, isolated from direct internet access, while still being able to communicate with external services when required. The design needed to ensure high availability, security, and efficient traffic handling across multiple availability zones.",
+    "index": 225
+  },
+  {
+    "type": "paragraph",
+    "text": "The architecture was built around a custom Virtual Private Cloud (VPC) containing both public and private subnets distributed across two availability zones. Public subnets hosted the NAT gateways and the Application Load Balancer (ALB), which was responsible for receiving incoming internet traffic. Private subnets hosted the EC2 application servers, which were not directly accessible from the internet, adding an important layer of network isolation and security.",
+    "index": 226
+  },
+  {
+    "type": "paragraph",
+    "text": "An Application Load Balancer was placed in the public subnets to distribute traffic to backend servers residing in the private subnets. These backend instances were part of an Auto Scaling Group to ensure the system could dynamically respond to changes in traffic. NAT gateways were also configured in each public subnet to allow the private instances to securely access the internet for tasks like software updates.",
+    "index": 227
+  },
+  {
+    "type": "paragraph",
+    "text": "To allow seamless and cost-effective access to S3 from within the private subnets, an S3 gateway endpoint was configured. This avoided the need for routing S3 traffic through NAT, reducing cost and improving efficiency. The overall setup ensured a secure, highly available, and scalable infrastructure following AWS best practices for network and server deployment.",
+    "index": 228
+  },
+  {
+    "type": "paragraph",
+    "text": "Amazon Web Services (AWS) is the world\u2019s leading cloud computing platform, offering a wide range of on-demand services such as computing power, storage, networking, databases, analytics, machine learning, and security tools. Launched in 2006 by Amazon, AWS enables individuals, startups, and large enterprises to build and manage scalable applications and infrastructure without the need to invest heavily in physical hardware. Its global infrastructure spans multiple regions and availability zones, ensuring high availability and fault tolerance for workloads of any scale.",
+    "index": 229
+  },
+  {
+    "type": "paragraph",
+    "text": "One of the key advantages of AWS is its pay-as-you-go pricing model, which allows users to pay only for the resources they consume. This makes it highly cost-effective, especially for dynamic workloads that require flexibility in resource allocation. AWS also provides tools for monitoring, auto-scaling, and automation, enabling efficient management and optimization of cloud environments.",
+    "index": 230
+  },
+  {
+    "type": "paragraph",
+    "text": "Security is a central focus of AWS, with built-in features like Identity and Access Management (IAM), Virtual Private Cloud (VPC), encryption at rest and in transit, and compliance with numerous industry standards and regulations. These features allow organizations to build secure architectures that meet strict security and compliance requirements.",
+    "index": 231
+  },
+  {
+    "type": "paragraph",
+    "text": "AWS services are modular and can be integrated to suit a wide range of use cases\u2014from simple web hosting to complex machine learning workflows. Some of its most widely used services include EC2 for computing, S3 for object storage, RDS for managed databases, Lambda for serverless computing, and Cloud Formation for infrastructure automation. With continuous innovation and a large global customer base, AWS has become a backbone for modern cloud infrastructure across industries.",
+    "index": 232
+  },
+  {
+    "type": "paragraph",
+    "text": "Key Components :",
+    "index": 233
+  },
+  {
+    "type": "paragraph",
+    "text": "1. Region and Availability Zones",
+    "index": 234
+  },
+  {
+    "type": "paragraph",
+    "text": "In AWS, a region is a geographical area that contains multiple isolated locations known as Availability Zones (AZs). Each Availability Zone consists of one or more data centers equipped with independent power, networking, and connectivity. Deploying resources across multiple AZs helps ensure high availability, resilience, and fault tolerance.",
+    "index": 235
+  },
+  {
+    "type": "paragraph",
+    "text": "In this architecture, a single AWS region was selected, and all components were distributed across two Availability Zones. This setup helps prevent application downtime in case of a failure or outage in one of the zones. By duplicating critical components like subnets, NAT gateways, and EC2 instances across these zones, the infrastructure remains operational even during partial outages.",
+    "index": 236
+  },
+  {
+    "type": "paragraph",
+    "text": "Using multiple AZs also enhances scalability and load distribution. The Application Load Balancer can route traffic to healthy resources in either AZ, and the Auto Scaling Group ensures that capacity is adjusted independently within each zone. This design pattern is considered a best practice for building reliable cloud applications.",
+    "index": 237
+  },
+  {
+    "type": "paragraph",
+    "text": "Overall, leveraging AZs helps create a robust system that balances performance, availability, and disaster recovery capabilities, all within a single region to maintain data locality and latency efficiency.",
+    "index": 238
+  },
+  {
+    "type": "paragraph",
+    "text": "2. VPC (Virtual Private Cloud)",
+    "index": 239
+  },
+  {
+    "type": "paragraph",
+    "text": "A Virtual Private Cloud (VPC) is a logically isolated network within AWS that allows full control over IP address ranges, subnets, route tables, and gateways. In this project, a dedicated VPC served as the foundational layer of the infrastructure, where both public and private subnets were provisioned and interconnected.",
+    "index": 240
+  },
+  {
+    "type": "paragraph",
+    "text": "The VPC enabled segmentation of resources based on access and functionality. Public-facing resources, such as the Application Load Balancer and NAT Gateways, were deployed in public subnets, while private resources like EC2 instances were placed in private subnets. This separation allowed for strong security controls while maintaining functionality and internet connectivity.",
+    "index": 241
+  },
+  {
+    "type": "paragraph",
+    "text": "Network traffic flow was tightly controlled using route tables. Public subnets had direct routes to the Internet Gateway, allowing public access, while private subnets routed their internet-bound traffic through NAT Gateways. This ensured that only intended traffic could enter or leave specific segments of the network.",
+    "index": 242
+  },
+  {
+    "type": "paragraph",
+    "text": "Additionally, the VPC configuration supported the creation of endpoints for services like S3, so internal resources could securely communicate with AWS services without traversing the public internet. The VPC provided the flexibility and isolation needed to build a secure and scalable cloud environment.",
+    "index": 243
+  },
+  {
+    "type": "paragraph",
+    "text": "3. Public Subnets",
+    "index": 245
+  },
+  {
+    "type": "paragraph",
+    "text": "Public subnets are sections of a VPC that are directly accessible from the internet, usually through an Internet Gateway. In this architecture, one public subnet was created in each Availability Zone to ensure high availability and to host components that required external connectivity.",
+    "index": 246
+  },
+  {
+    "type": "paragraph",
+    "text": "The primary role of the public subnets was to house the NAT Gateways and the Application Load Balancer. NAT Gateways allow private subnet instances to initiate outbound internet traffic securely. Meanwhile, the ALB receives incoming traffic from users and forwards it to EC2 instances in the private subnets.",
+    "index": 247
+  },
+  {
+    "type": "paragraph",
+    "text": "Resources within public subnets were configured with appropriate security groups and routing rules. For example, only specific ports (such as 80 for HTTP and 443 for HTTPS) were opened to the internet for the ALB. NAT Gateways, though placed in public subnets, were designed to only handle outbound connections from private subnets and not receive any inbound traffic.",
+    "index": 248
+  },
+  {
+    "type": "paragraph",
+    "text": "By isolating internet-facing components in public subnets, the design minimized exposure of sensitive backend systems while still enabling required functionality such as load balancing and secure outbound access.",
+    "index": 249
+  },
+  {
+    "type": "paragraph",
+    "text": "4. Private Subnets",
+    "index": 250
+  },
+  {
+    "type": "paragraph",
+    "text": "Private subnets are parts of the VPC that are not directly reachable from the internet. In this setup, one private subnet was created per Availability Zone to host the EC2 application servers securely. These subnets did not have routes to the Internet Gateway, which means no incoming internet traffic could directly reach the servers.",
+    "index": 251
+  },
+  {
+    "type": "paragraph",
+    "text": "The EC2 instances in the private subnets ran the core backend application and business logic. These instances only accepted traffic from the Application Load Balancer in the public subnets, ensuring a tightly controlled traffic path. This greatly reduced the surface area for potential attacks.",
+    "index": 252
+  },
+  {
+    "type": "paragraph",
+    "text": "Outbound internet access was made possible through NAT Gateways located in the public subnets. This allowed the instances to perform updates or interact with internet-based APIs without exposing them to the public internet. The route tables for private subnets were configured to forward internet-bound traffic to the NAT Gateway.",
+    "index": 253
+  },
+  {
+    "type": "paragraph",
+    "text": "Overall, placing the servers in private subnets was a key security measure. It enabled the design of a system where essential resources remained isolated and protected, yet functionally integrated into the larger network.",
+    "index": 254
+  },
+  {
+    "type": "paragraph",
+    "text": "5. NAT Gateways",
+    "index": 255
+  },
+  {
+    "type": "paragraph",
+    "text": "NAT (Network Address Translation) Gateways allow instances in private subnets to initiate outbound internet connections while preventing inbound connections from the internet. In this project, a NAT Gateway was deployed in each public subnet across the Availability Zones to ensure redundancy and high availability.",
+    "index": 256
+  },
+  {
+    "type": "paragraph",
+    "text": "Private EC2 instances that needed to access the internet for tasks like downloading software or updates used these NAT Gateways. By configuring the private subnet\u2019s route tables to forward internet traffic to the NAT Gateway, instances remained secure while still being fully functional.",
+    "index": 257
+  },
+  {
+    "type": "paragraph",
+    "text": "The use of multiple NAT Gateways ensured that if one Availability Zone failed, the instances in the other zone could still maintain internet connectivity through their respective NAT Gateway. This approach minimized single points of failure and improved fault tolerance.",
+    "index": 258
+  },
+  {
+    "type": "paragraph",
+    "text": "Being a managed service, NAT Gateways scale automatically and require minimal administrative effort. Their implementation significantly improved security posture by providing controlled internet access without making private instances publicly addressable.",
+    "index": 259
+  },
+  {
+    "type": "paragraph",
+    "text": "6. Application Load Balancer",
+    "index": 260
+  },
+  {
+    "type": "paragraph",
+    "text": "The Application Load Balancer (ALB) is a layer 7 load balancer that intelligently distributes HTTP and HTTPS traffic based on application-level information. In this architecture, the ALB was deployed in the public subnets of both Availability Zones and served as the entry point for external user traffic.",
+    "index": 261
+  },
+  {
+    "type": "paragraph",
+    "text": "The ALB was configured to forward incoming traffic to a target group of EC2 instances running in the private subnets. These instances handled the actual processing of requests. The ALB continuously monitored the health of these targets and routed traffic only to healthy instances, ensuring reliable and uninterrupted service.",
+    "index": 262
+  },
+  {
+    "type": "paragraph",
+    "text": "The load balancer supported advanced routing features such as path-based and host-based routing, though in this basic implementation it focused on distributing load evenly. The ALB also managed SSL termination, offloading this resource-intensive task from the backend servers.",
+    "index": 263
+  },
+  {
+    "type": "paragraph",
+    "text": "Its integration with Auto Scaling Groups and security groups made it highly efficient. It enabled horizontal scaling of backend resources while ensuring that only verified and necessary traffic could reach the private subnets. Overall, the ALB played a critical role in making the application highly available and scalable.",
+    "index": 264
+  },
+  {
+    "type": "paragraph",
+    "text": "7. Auto Scaling Group",
+    "index": 265
+  },
+  {
+    "type": "paragraph",
+    "text": "An Auto Scaling Group (ASG) manages a collection of EC2 instances, automatically adjusting their number based on traffic demand. In this architecture, the ASG was configured to launch EC2 instances in the private subnets across two Availability Zones.",
+    "index": 266
+  },
+  {
+    "type": "paragraph",
+    "text": "The main benefit of using an ASG is elasticity. During peak traffic, it can launch additional instances to handle the load, and during idle periods, it can terminate unused instances to save costs. This ensures optimal resource usage and cost efficiency without manual intervention.",
+    "index": 267
+  },
+  {
+    "type": "paragraph",
+    "text": "Health checks were integrated with the ALB to detect failed instances. If an instance became unhealthy, the ASG would automatically terminate it and launch a new one in its place. This self-healing capability significantly improved the resilience and uptime of the application.",
+    "index": 268
+  },
+  {
+    "type": "paragraph",
+    "text": "Additionally, the ASG configuration included settings like minimum, maximum, and desired capacity, as well as scaling policies based on metrics such as CPU utilization. This allowed for fine-tuned control over the scaling behavior of the application servers.",
+    "index": 269
+  },
+  {
+    "type": "paragraph",
+    "text": "8. Security Groups",
+    "index": 270
+  },
+  {
+    "type": "paragraph",
+    "text": "Security Groups act as virtual firewalls that control the inbound and outbound traffic to AWS resources. In this architecture, separate security groups were defined for the Application Load Balancer and the EC2 instances to enforce strong access control.",
+    "index": 271
+  },
+  {
+    "type": "paragraph",
+    "text": "The security group for the ALB allowed HTTP (port 80) and HTTPS (port 443) traffic from the internet, making it the only publicly accessible component. The EC2 instances\u2019 security group allowed traffic only from the ALB\u2019s security group on application-specific ports, ensuring no direct access from the internet.",
+    "index": 272
+  },
+  {
+    "type": "paragraph",
+    "text": "Outbound rules were configured to allow the necessary internet communication, such as fetching updates or accessing APIs. All communication between services was governed by these groups, which were configured with the principle of least privilege.",
+    "index": 273
+  },
+  {
+    "type": "paragraph",
+    "text": "Security groups are stateful, meaning that if an inbound request is allowed, the corresponding outbound response is automatically permitted. Their use in this architecture provided a robust, manageable, and audit-friendly approach to securing network traffic.",
+    "index": 274
+  },
+  {
+    "type": "paragraph",
+    "text": "9. S3 Gateway",
+    "index": 276
+  },
+  {
+    "type": "paragraph",
+    "text": "An S3 Gateway Endpoint is a VPC component that allows instances in private subnets to access Amazon S3 without needing to go through the public internet. In this setup, the endpoint was created to ensure secure and low-latency communication between the EC2 instances and S3.",
+    "index": 277
+  },
+  {
+    "type": "paragraph",
+    "text": "The key benefit of using a gateway endpoint is that it avoids the need to route S3 traffic through NAT Gateways, reducing both cost and latency. Since traffic does not leave the AWS network, it also enhances security by preventing exposure to the public internet.",
+    "index": 278
+  },
+  {
+    "type": "paragraph",
+    "text": "This configuration was especially useful for operations like storing logs, reading configuration files, or fetching application assets from S3. The endpoint was attached to the route table associated with the private subnets, ensuring that all S3 traffic was routed internally.",
+    "index": 279
+  },
+  {
+    "type": "paragraph",
+    "text": "Overall, the S3 Gateway Endpoint contributed to a more secure and efficient architecture. It simplified access to S3 from private instances and helped minimize reliance on public internet routing, aligning with best practices for building secure VPC architectures.",
+    "index": 280
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.07 : Route table for one of the private subnets.",
+    "index": 291
+  },
+  {
+    "type": "paragraph",
+    "text": "I began by creating a custom Virtual Private Cloud (VPC) to serve as the foundation for the architecture. I defined a CIDR block for the VPC and enabled DNS support and DNS host names to allow internal name resolution. After setting up the VPC, I created four subnets\u2014two public and two private\u2014spread evenly across two different Availability Zones to ensure high availability and fault tolerance in case one zone becomes unavailable.",
+    "index": 293
+  },
+  {
+    "type": "paragraph",
+    "text": "Once the subnets were in place, I created and attached an Internet Gateway to the VPC, then updated the route tables of the public subnets to allow internet-bound traffic. I deployed NAT Gateways in each of the public subnets, each with its own Elastic IP. I then modified the route tables of the private subnets so that any internet-bound traffic from private instances would go through the NAT Gateway in the corresponding Availability Zone. This setup ensured that my private EC2 instances could access the internet securely without being exposed to it directly.",
+    "index": 294
+  },
+  {
+    "type": "paragraph",
+    "text": "After the network layer was fully configured, I launched EC2 instances into the private subnets using a Launch Template and attached them to an Auto Scaling Group. I configured the ASG with minimum, maximum, and desired capacities, and set up scaling policies based on CPU utilization. This allowed the number of backend servers to scale automatically depending on the load. Each instance was launched with an IAM role to allow access to necessary AWS services like S3.",
+    "index": 295
+  },
+  {
+    "type": "paragraph",
+    "text": "To route external traffic to my backend instances, I set up an Application Load Balancer (ALB) in the public subnets. I configured the ALB to listen on port 80 and route traffic to a target group containing the private EC2 instances. I enabled health checks to make sure the ALB only forwarded traffic to healthy instances. I also created and assigned appropriate Security Groups, allowing internet traffic to the ALB and permitting only the ALB to communicate with the backend instances on specific ports.",
+    "index": 296
+  },
+  {
+    "type": "paragraph",
+    "text": "Finally, to allow secure and cost-effective access to S3 from the private subnets, I added an S3 Gateway Endpoint to the VPC. I updated the route tables of the private subnets to use this endpoint for all traffic directed to S3. This eliminated the need to use the NAT Gateway for S3 requests, reducing costs and improving performance. The entire setup followed AWS best practices and resulted in a secure, scalable, and fault-tolerant infrastructure ready for real-world applications.",
+    "index": 297
+  },
+  {
+    "type": "paragraph",
+    "text": "2.4 Maintaining, Managing, Revamping of Career Vyas and Future Scope : -",
+    "index": 299
+  },
+  {
+    "type": "paragraph",
+    "text": "In India, the demand for academic mentorship has grown significantly due to the competitive nature of entrance exams like IIT-JEE and NEET. Every year, millions of students appear for these high-stakes exams with the hope of securing admission into top engineering and medical institutions. However, the vast syllabus, limited seats, and pressure to perform often create a stressful and confusing environment for students. Mentorship provides clarity in this chaos\u2014it offers a structured path, emotional support, and personalized strategies to help students navigate their preparation efficiently.",
+    "index": 300
+  },
+  {
+    "type": "paragraph",
+    "text": "Many students in India, especially from Tier-2 and Tier-3 cities, lack access to quality coaching or guidance. While online resources have made learning more accessible, they often fall short in offering customized solutions to individual doubts, time management issues, and study planning. A mentor, particularly someone who has already cleared these exams, can bridge this gap by sharing first-hand experience, proven methods, and constant encouragement. Their presence can make the difference between random preparation and focused progress.",
+    "index": 301
+  },
+  {
+    "type": "paragraph",
+    "text": "Mentorship is also essential for psychological support. With academic pressure, parental expectations, and peer competition mounting, students often experience burnout, self-doubt, or loss of motivation. Regular interactions with a mentor can act as a mental checkpoint\u2014helping students regain confidence, stay goal-oriented, and learn how to balance study and personal well-being. This emotional reinforcement is something that books or pre-recorded lectures can rarely provide.",
+    "index": 302
+  },
+  {
+    "type": "paragraph",
+    "text": "Lastly, mentorship plays a crucial role in building awareness. Students are often unaware of various opportunities, career paths, and realistic college options beyond the most popular ones. A good mentor can help broaden their perspective, recommend the right resources, and assist in making informed decisions. In a country where education can determine the direction of a student's life, effective mentorship is not a luxury but a necessary support system.",
+    "index": 303
+  },
+  {
+    "type": "paragraph",
+    "text": "Career Vyas is a mentorship-focused ed-tech platform currently under development. It aims to support students preparing for IIT-JEE and NEET by connecting them with top performers and alumni from prestigious institutions such as IITs, NITs, and AIIMS. The platform is designed to provide personalized academic guidance, mental support, and strategic preparation tips through one-on-one interaction.",
+    "index": 304
+  },
+  {
+    "type": "paragraph",
+    "text": "The website enables students to interact directly with mentors, discuss their preparation challenges, and receive curated advice from top rankers. It also offers features like joining a focused community and booking free demo sessions. The goal is to create an environment where aspirants can get clarity and direction from those who have already cracked these competitive exams.",
+    "index": 305
+  },
+  {
+    "type": "paragraph",
+    "text": "I was responsible for the complete full-stack development of the platform using Next.js. On the frontend, I built responsive interfaces using React and Tailwind CSS, incorporated server-side rendering for faster load times, and implemented dynamic routing. On the backend, I managed user authentication, session bookings, and mentor-student communication using API routes provided by the Next.js framework.",
+    "index": 306
+  },
+  {
+    "type": "paragraph",
+    "text": "In addition to the technical responsibilities, I also oversaw the operational workflow of the project. This included hiring students from IITs and AIIMS as mentors, structuring how mentorship would be conducted, and ensuring smooth scheduling and communication between students and mentors. The project combined both development and operational leadership to ensure a seamless and value-driven user experience.",
+    "index": 307
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.08: Career Vyas page",
+    "index": 309
+  },
+  {
+    "type": "paragraph",
+    "text": "The Career Vyas platform, although currently under development, clearly reflects core CRUD (Create, Read, Update, Delete) functionalities within its user flow and mentorship structure. The \"Join Our Community\" and \"Book a Demo\" buttons are strong indicators of the create action, where new student users initiate interaction with the platform. When a student signs up or books a demo session, their information is created and stored in the backend database. Similarly, mentor profiles\u2014especially those from IITs, NITs, and AIIMS\u2014are created during the onboarding process, including details such as their qualifications, availability, and subject expertise.",
+    "index": 310
+  },
+  {
+    "type": "paragraph",
+    "text": "The read functionality comes into play when users retrieve and view relevant data from the platform. This includes viewing mentor bios, available time slots, personalized tips, or reading guidance-related content displayed on the homepage. These elements are likely fetched using server-side or client-side rendering methods provided by the Next.js framework, depending on the design and performance needs of the platform.",
+    "index": 311
+  },
+  {
+    "type": "paragraph",
+    "text": "The update functionality would allow both mentors and students to make changes to their profiles or bookings. For instance, a student might reschedule a booked demo session, or a mentor could update their weekly availability or add notes following a counseling session. These updates ensure that user data stays relevant and accurate, and the dynamic nature of Next.js supports these changes smoothly through its API routes.",
+    "index": 312
+  },
+  {
+    "type": "paragraph",
+    "text": "Lastly, the delete functionality is implied in areas such as session cancellation or user withdrawal from the platform. If a student chooses to cancel a previously scheduled session, the corresponding record is removed or flagged in the system. Likewise, mentors or admins may delete outdated or inactive profiles, keeping the platform clean and active. These CRUD operations, while not visibly shown in action on the UI, are fundamental to the underlying structure and flow of a mentorship-based platform like Career Vyas.",
+    "index": 313
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.09 Blogs on Career Vyas",
+    "index": 314
+  },
+  {
+    "type": "paragraph",
+    "text": "The Career Vyas platform also features a dedicated blog section titled \"Readers Digest\", which serves as an essential resource hub for students preparing for competitive exams like IIT-JEE and NEET. This section is designed to provide well-researched, easy-to-understand content that addresses common questions, challenges, and strategies related to exam preparation and career planning.",
+    "index": 315
+  },
+  {
+    "type": "paragraph",
+    "text": "The blogs cover a variety of topics aimed at guiding aspirants through their preparation journey. Articles such as \"How to Crack JEE Mains?\", \"What is JEE Exam?\", and \"Why do you Need IIT JEE Mentorship?\" provide valuable insights into exam structure, preparation strategies, and the importance of guided mentorship. These posts are written in a friendly and informative tone, helping students stay motivated and better informed.",
+    "index": 316
+  },
+  {
+    "type": "paragraph",
+    "text": "This blog module is not just a passive content area; it is integrated into the platform workflow to support students at different stages of their journey. Whether someone is just starting to explore the idea of engineering or is already preparing intensively, these articles help clarify doubts, offer strategic tips, and highlight the role of mentorship.",
+    "index": 317
+  },
+  {
+    "type": "paragraph",
+    "text": "From a technical standpoint, this section was implemented using Next.js dynamic routing to fetch and display each blog post. The content is managed either statically or through a headless CMS. It adds value to the user experience by promoting self-paced learning in parallel with mentor-led support.",
+    "index": 318
+  },
+  {
+    "type": "paragraph",
+    "text": "Future scope :-",
+    "index": 319
+  },
+  {
+    "type": "paragraph",
+    "text": "Looking ahead, Career Vyas aims to grow into a comprehensive educational platform, much like Shiksha.com or CollegeDunia. While its current strength lies in mentorship for JEE and NEET aspirants, the long-term vision is to transform it into a one-stop solution for students exploring higher education opportunities in India. The goal is to not only provide exam preparation support but also enable students to make informed decisions about their academic futures.",
+    "index": 320
+  },
+  {
+    "type": "paragraph",
+    "text": "A key part of this vision is to build a rich database of colleges across India, covering engineering, medical, and other professional fields. Students will be able to browse detailed profiles of institutions that include information on admission processes, fee structures, available courses, faculty quality, placement records, and campus facilities. This will empower students from all backgrounds\u2014especially those without easy access to career counseling\u2014to evaluate their options in a structured and reliable manner.",
+    "index": 321
+  },
+  {
+    "type": "paragraph",
+    "text": "Another major feature in the pipeline is the integration of college reviews. Career Vyas will allow current students and alumni to share their experiences, giving prospective students first-hand insights into academic culture, campus life, faculty support, internships, and real-world readiness. These peer-driven reviews will offer an honest and relatable perspective that traditional brochures or advertisements often miss.",
+    "index": 322
+  },
+  {
+    "type": "paragraph",
+    "text": "By combining mentorship, exam guidance, institutional data, and user-generated reviews, Career Vyas intends to become a holistic guidance platform. It will cater not just to students preparing for competitive exams but also to those navigating the broader journey of college admissions and career planning. This expansion will make it a reliable academic companion for students across India, from exam preparation to college selection and beyond.",
+    "index": 323
+  },
+  {
+    "type": "paragraph",
+    "text": "App :-",
+    "index": 324
+  },
+  {
+    "type": "paragraph",
+    "text": "After weeks of discussions, planning, and brainstorming sessions, we have finally conceptualized and finalized a simplified mobile application for Career Vyas. The app is designed to primarily focus on delivering verified college reviews and reliable information related to IIT-JEE and NEET exams in a user-friendly format. The idea is to bring mentorship, exam guidance, and college insights together into one seamless experience for students. A clean and intuitive Figma design has been completed and approved, which will serve as the foundation for development. We are now preparing to begin the implementation phase in the coming weeks.",
+    "index": 325
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.10: App Overview",
+    "index": 326
+  },
+  {
+    "type": "paragraph",
+    "text": "Fig 2.11: Colleges module",
+    "index": 327
+  },
+  {
+    "type": "paragraph",
+    "text": "CHAPTER III: CHALLENGES AND LEARNINGS",
+    "index": 339
+  },
+  {
+    "type": "paragraph",
+    "text": "During the course of my internship, I was exposed to a variety of technical and professional challenges that significantly contributed to my growth. This was my first experience working in a structured development environment, where I had the opportunity to explore backend development, cloud infrastructure, and client communication. Each challenge I faced came with its own learning curve, and overcoming them helped me build practical skills, improve my teamwork, and gain confidence in handling real-world projects\u2014especially within the ed-tech domain, which was completely new to me at the time.",
+    "index": 340
+  },
+  {
+    "type": "paragraph",
+    "text": "3.1 Key Problems Faced and How I Solved Them :-",
+    "index": 341
+  },
+  {
+    "type": "paragraph",
+    "text": "One of the earliest challenges I encountered during my internship was adapting to the backend development workflow. I had limited prior experience with backend technologies, and this project\u2014building a metadata extractor using the Tornado web framework\u2014was my first in-depth exposure. Tornado\u2019s asynchronous nature, routing mechanisms, and error handling were initially hard to understand. However, through documentation, practice, and guidance from my mentor, I gradually became comfortable with structuring backend logic, handling HTTP requests, and managing file uploads effectively.",
+    "index": 342
+  },
+  {
+    "type": "paragraph",
+    "text": "Database integration using PostgreSQL also presented a steep learning curve. From creating and designing efficient schemas to executing parameterized queries and ensuring data integrity, every aspect required attention to detail. I had to understand the right way to store metadata such as file creation times, character counts, and last modified timestamps. I used tools like pgAdmin and practiced writing queries in Python, which helped me connect theory to real-world use cases.",
+    "index": 343
+  },
+  {
+    "type": "paragraph",
+    "text": "Another major challenge came with the VPC setup in AWS. I was responsible for configuring a secure and highly available Virtual Private Cloud with public and private subnets distributed across two Availability Zones. At first, I struggled with routing issues\u2014resources in private subnets couldn\u2019t access the internet until I properly configured a NAT Gateway and associated it with the correct route tables. This process taught me a lot about the fundamentals of cloud networking, including subnet isolation, fault tolerance, and high availability.",
+    "index": 344
+  },
+  {
+    "type": "paragraph",
+    "text": "Security configurations were equally demanding. Understanding how to configure IAM roles, security groups, and network ACLs in a way that ensured both access and protection required me to test policies repeatedly. I faced issues when services wouldn\u2019t communicate as expected, but eventually resolved them by deeply analyzing AWS documentation and experimenting with different configurations. These experiences gave me practical knowledge of cloud architecture that extended far beyond classroom learning.",
+    "index": 345
+  },
+  {
+    "type": "paragraph",
+    "text": "3.2 Technical and Soft Skills Gained :-",
+    "index": 346
+  },
+  {
+    "type": "paragraph",
+    "text": "On the technical front, this internship gave me a solid foundation in backend development, cloud infrastructure, and system design. I learned how to create robust and modular APIs using Tornado, and how to manage data flow efficiently with PostgreSQL. I also gained experience in containerizing the backend and deploying it in a scalable and secure network environment using AWS. These skills not only boosted my technical confidence but also helped me understand how various components in a full-stack system interact.",
+    "index": 347
+  },
+  {
+    "type": "paragraph",
+    "text": "This was also my first real-world exposure to setting up a Virtual Private Cloud on AWS. I learned how to break down large tasks\u2014like configuring subnets and setting up NAT gateways\u2014into manageable parts. I became more confident in managing infrastructure securely, and I developed a sense of how real-world applications are deployed in scalable, cost-effective cloud environments. Working with tools like EC2, route tables, and CloudWatch made my learning more practical and hands-on.",
+    "index": 348
+  },
+  {
+    "type": "paragraph",
+    "text": "Soft skills were another major area of growth. I improved significantly in teamwork\u2014learning how to communicate technical blockers, collaborate on shared goals, and support my peers during complex tasks. Regular team discussions, code reviews, and shared documentation strengthened my coordination and made me a more responsible team member. I also learned how to ask for help effectively and how to give feedback constructively.",
+    "index": 349
+  },
+  {
+    "type": "paragraph",
+    "text": "Another milestone was gaining experience in client communication, which was entirely new for me. I learned how to take notes during requirement discussions, convert vague instructions into clear action items, and regularly update the client about progress. These interactions improved my professional communication skills and taught me how to manage expectations while delivering work efficiently and respectfully.",
+    "index": 350
+  },
+  {
+    "type": "paragraph",
+    "text": "3.3 Exposure to the Ed-Tech Domain :-",
+    "index": 351
+  },
+  {
+    "type": "paragraph",
+    "text": "Before this internship, I had little understanding of the ed-tech industry. As I began working on live projects that supported educational workflows, I realized that ed-tech platforms are not just about content\u2014they involve careful structuring of data, accessibility, and user-friendly design tailored for students, educators, and academic institutions. Understanding this broader context was crucial for aligning my backend logic with actual use cases.",
+    "index": 352
+  },
+  {
+    "type": "paragraph",
+    "text": "To build this understanding, I spent time reviewing how the company\u2019s academic content pipelines worked, how students interact with digital educational tools, and how educators depend on timely, accurate resources. I asked questions during team calls, read internal documents, and researched popular ed-tech platforms like Coursera and Byju\u2019s to understand standard practices. This background helped me realize that even small backend functions\u2014like metadata tracking or access control\u2014can impact user experience in educational platforms.",
+    "index": 353
+  },
+  {
+    "type": "paragraph",
+    "text": "By the end of the internship, I had developed not only a technical toolkit but also an awareness of how technology supports modern education. This new perspective on ed-tech has sparked a genuine interest in exploring future opportunities in the education-technology space, especially in backend automation and digital resource optimization.",
+    "index": 354
+  },
+  {
+    "type": "paragraph",
+    "text": "CHAPTER IV: CONCLUSION",
+    "index": 357
+  },
+  {
+    "type": "paragraph",
+    "text": "4.1 Overall Experience Summary :-",
+    "index": 359
+  },
+  {
+    "type": "paragraph",
+    "text": "My internship at ServOn Solution proved to be a pivotal experience in my academic and professional journey. This was the first time I was involved in a real-world work environment, interacting with industry professionals, adhering to deadlines, and working collaboratively on deliverables that had actual impact. From the beginning, the environment at ServOn was structured to nurture growth, independence, and responsibility. I was not treated as just an intern, but rather as an integral part of the team\u2014this greatly boosted my confidence and sense of accountability.",
+    "index": 360
+  },
+  {
+    "type": "paragraph",
+    "text": "The initial few days were about familiarizing myself with the company\u2019s workflow and expectations. As a B2B academic content development company, ServOn operates in a fast-paced ecosystem that demands quality, precision, and consistency. While the expectations seemed high at first, the structured mentorship, team discussions, and constant feedback loops made it possible to keep up with the pace. I was gradually introduced to increasingly complex tasks\u2014ranging from technical assignments like developing a metadata extraction tool to participating in strategic discussions related to content development processes and timelines.",
+    "index": 361
+  },
+  {
+    "type": "paragraph",
+    "text": "One of the most enriching parts of my experience was the multi-dimensional nature of the work. It was not limited to coding or back-end development; I had to understand domain concepts (like ed-tech), work with cross-functional teams, and sometimes contribute to project documentation and client presentations. I also got my first exposure to client interactions, which taught me the importance of communication, expectation setting, and professional etiquette. This diversity of roles gave me a holistic picture of how projects are managed in a company setting.",
+    "index": 362
+  },
+  {
+    "type": "paragraph",
+    "text": "The work culture was friendly and open, yet professional. My mentor, Garvit Gupta, was approachable and guided me with patience, particularly when I faced hurdles during technical implementation. Daily stand-ups, weekly reviews, and sprint planning helped me stay focused and aligned with project objectives. Importantly, every mistake I made was treated as a learning opportunity, and constructive feedback was always available to help me improve.",
+    "index": 363
+  },
+  {
+    "type": "paragraph",
+    "text": "Reflecting on the entire experience, I feel a sense of accomplishment. I went in with basic knowledge and came out with refined skills, a clearer career direction, and a deeper understanding of what it means to work in a company that values both quality and innovation. My time at ServOn was not just about completing an internship\u2014it was about laying the foundation for my professional life.",
+    "index": 364
+  },
+  {
+    "type": "paragraph",
+    "text": "4.2 How This Internship Helped My Professional Development :-",
+    "index": 366
+  },
+  {
+    "type": "paragraph",
+    "text": "This internship has significantly accelerated my professional development across several critical dimensions\u2014technical proficiency, communication skills, adaptability, professionalism, and industry awareness. As a student transitioning from an academic setting to the corporate world, this opportunity offered me the perfect environment to apply my theoretical knowledge to real-world problems. It gave me the platform to explore, experiment, learn from mistakes, and gradually evolve into a more capable and self-assured individual.",
+    "index": 367
+  },
+  {
+    "type": "paragraph",
+    "text": "One of the most impactful aspects of my internship was the opportunity to work on the Tornado-based metadata extraction website. At the start of my internship, I had limited experience with back-end technologies. While I was comfortable with Python and understood the basics of web development, I had not worked on a full-stack application in a professional environment. ServOn assigned me this project to strengthen my back-end skills, and over time, I built an entire web application from scratch. I worked with Tornado\u2014a high-performance, non-blocking web framework\u2014which was entirely new to me. This not only broadened my technical skill set but also taught me how to break a complex problem into smaller, manageable components and implement them systematically.",
+    "index": 368
+  },
+  {
+    "type": "paragraph",
+    "text": "In addition, I learned to work with PostgreSQL databases to store and manage metadata. This included designing efficient schemas, handling queries, and ensuring data persistence in a reliable manner. I also got hands-on experience with Docker, which introduced me to containerization\u2014a critical DevOps skill. I created Dockerfiles, built images, and deployed my application in isolated environments. These processes helped me understand the practical significance of scalability, portability, and efficient resource management. Moreover, I worked with RESTful APIs for client-server communication and was involved in testing the endpoints to ensure robustness and performance. All of these collectively made me job-ready from a technical standpoint, while also giving me a deeper appreciation for real-world application architecture.",
+    "index": 369
+  },
+  {
+    "type": "paragraph",
+    "text": "Beyond the technical front, I experienced substantial growth in soft skills and workplace behavior. During the internship, I participated in daily team meetings, code reviews, project planning, and retrospectives. These interactions taught me the importance of clear and concise communication. I became more adept at explaining my ideas, actively listening to feedback, and collaborating with teammates to solve problems efficiently. Initially, I was hesitant to speak up or ask questions, fearing I might sound inexperienced. But as time progressed, I realized that open communication is encouraged and is key to learning and growth. The supportive culture at ServOn helped me feel comfortable contributing to discussions and seeking help when needed.",
+    "index": 370
+  },
+  {
+    "type": "paragraph",
+    "text": "Time management and prioritization were two other important lessons. Working on tight deadlines while maintaining code quality and documentation required structured planning. I developed the habit of maintaining to-do lists, tracking progress through project management tools, and setting realistic goals for each day. These organizational habits have stayed with me, and I now understand how they directly impact productivity and accountability in a team environment.",
+    "index": 371
+  },
+  {
+    "type": "paragraph",
+    "text": "Client interaction was another first for me, and it turned out to be an incredibly valuable learning experience. I was involved in a few client communication sessions, where I had to gather requirements, understand their expectations, and provide updates. This taught me the nuances of professional communication\u2014how to speak clearly, listen actively, and be transparent about progress and blockers. I learned how client satisfaction is not just about technical delivery but also about relationship building, trust, and clear alignment of objectives. Learning to balance technical work with client-side expectations was a significant milestone in my growth.",
+    "index": 372
+  },
+  {
+    "type": "paragraph",
+    "text": "A noteworthy part of my development was gaining exposure to the ed-tech industry itself. Prior to this internship, I was not very familiar with the workflows and challenges in educational content delivery. Through this experience, I learned how content is curated, verified by subject matter experts, and adapted for different educational levels and formats. I understood how technology platforms integrate multimedia, assessment tools, and analytics to enhance the learning experience. This exposure helped me contextualize the work I was doing and made me realize the impact our product could have on students and educators. It also sparked a new interest in the ed-tech space, and I now feel motivated to explore this domain further\u2014perhaps even contribute to it more meaningfully in the future.",
+    "index": 373
+  },
+  {
+    "type": "paragraph",
+    "text": "In conclusion, this internship was much more than a temporary engagement\u2014it was a comprehensive learning experience that shaped my outlook on technology, work, and professional life. I entered with limited experience and a few uncertainties but walked away with a toolkit of valuable skills, a broader perspective, and much more confidence. The challenges I faced taught me resilience; the responsibilities I handled taught me accountability; and the exposure I gained opened up new career possibilities. I now feel more prepared to take on larger roles, collaborate with diverse teams, and contribute meaningfully to any organization I join.",
+    "index": 374
+  },
+  {
+    "type": "paragraph",
+    "text": "REFERENCES",
+    "index": 390
+  },
+  {
+    "type": "paragraph",
+    "text": "[1] Amazon Web Services, \"Amazon VPC Documentation,\" [Online]. Available: https://docs.aws.amazon.com/vpc/latest/userguide/.",
+    "index": 391
+  },
+  {
+    "type": "paragraph",
+    "text": "[2] Tornado Web Server, \"Tornado Documentation,\" [Online]. Available: https://www.tornadoweb.org/en/stable/ .",
+    "index": 392
+  },
+  {
+    "type": "paragraph",
+    "text": "[3] PostgreSQL Global Development Group, \"PostgreSQL Documentation,\" [Online]. Available: https://www.postgresql.org/docs/.",
+    "index": 393
+  },
+  {
+    "type": "paragraph",
+    "text": "[4] Mozilla Developer Network, \"HTML: HyperText Markup Language,\" [Online]. Available: https://developer.mozilla.org/en-US/docs/Web/HTML.",
+    "index": 394
+  },
+  {
+    "type": "paragraph",
+    "text": "[5] Mozilla Developer Network, \"CSS: Cascading Style Sheets,\" [Online]. Available: https://developer.mozilla.org/en-US/docs/Web/CSS.",
+    "index": 395
+  },
+  {
+    "type": "paragraph",
+    "text": "[6] Mozilla Developer Network, \"JavaScript Guide,\" [Online]. Available: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide.",
+    "index": 396
+  },
+  {
+    "type": "paragraph",
+    "text": "[7] Shiksha.com, \"Explore Colleges and Courses in India,\" [Online]. Available: https://www.shiksha.com/.",
+    "index": 397
+  },
+  {
+    "type": "paragraph",
+    "text": "[8] CollegeDunia, \"Search Colleges, Courses, Exams, Questions and Articles,\" [Online]. Available: https://collegedunia.com/.",
+    "index": 398
+  },
+  {
+    "type": "paragraph",
+    "text": "[9] Bootstrap, \"Introduction to Bootstrap,\" [Online]. Available: https://getbootstrap.com/docs/.",
+    "index": 399
+  },
+  {
+    "type": "paragraph",
+    "text": "[10] W3Schools, \"Frontend Web Development Tutorials,\" [Online]. Available: https://www.w3schools.com/.",
+    "index": 400
+  },
+  {
+    "type": "paragraph",
+    "text": "[11] Meta (formerly Facebook), \"React \u2013 A JavaScript library for building user interfaces,\" [Online]. Available: https://reactjs.org/.",
+    "index": 401
+  },
+  {
+    "type": "paragraph",
+    "text": "[12] Vercel, \"Next.js Documentation \u2013 The React Framework for Production,\" [Online]. Available: https://nextjs.org/docs .",
+    "index": 402
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "slide_number": 1,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Internship Evaluation "
+      },
+      {
+        "type": "paragraph",
+        "text": "A presentation of my contributions as a full-stack developer in Servon Solution LLP"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kumar Devesh"
+      },
+      {
+        "type": "paragraph",
+        "text": "21106056"
+      },
+      {
+        "type": "paragraph",
+        "text": "DR. B R Ambedkar National Institute of Technology, Jalandhar "
+      }
+    ]
+  },
+  {
+    "slide_number": 2,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "INTRODUCTION : SERVON SOLUTION LLP"
+      },
+      {
+        "type": "paragraph",
+        "text": "ServOn Solution is a B2B academic content development agency that provides end-to-end academic and IT solutions to EdTech companies, publishers, businesses, and educational institutions. It specializes in content creation, software development, UI/UX design, and localization, tailored to meet the evolving needs of the education and corporate sectors. With a team of subject matter experts, developers, and designers, the company delivers high-quality, scalable solutions aligned with client goals. ServOn\u2019s comprehensive services support learning platforms, digital publishing, and corporate training while leveraging modern technologies and agile practices."
+      }
+    ]
+  },
+  {
+    "slide_number": 3,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "My Role "
+      },
+      {
+        "type": "paragraph",
+        "text": "Servon Solution LLP is a rapidly growing organization in the ed-tech industry providing IT Solutions: Providing app and web development services to help businesses stay competitive and deliver their products and services. efficiently."
+      },
+      {
+        "type": "paragraph",
+        "text": "Backend"
+      },
+      {
+        "type": "paragraph",
+        "text": "Robust architectures, metadata extraction."
+      },
+      {
+        "type": "paragraph",
+        "text": "Frontend"
+      },
+      {
+        "type": "paragraph",
+        "text": "Job posting portal for a client and Career Vyas Website"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cloud "
+      },
+      {
+        "type": "paragraph",
+        "text": "Setting up VPCs in multiple availability zones"
+      }
+    ]
+  },
+  {
+    "slide_number": 4,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Backend Development: Metadata Extractor"
+      },
+      {
+        "type": "paragraph",
+        "text": "Developed a Tornado-based metadata extractor webpage. Users upload files, extract metadata, and store it in PostgreSQL."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tech Stack"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tornado, PostgreSQL, Docker, Jenkins."
+      },
+      {
+        "type": "paragraph",
+        "text": "Containerized"
+      },
+      {
+        "type": "paragraph",
+        "text": "Docker for scalability and portability."
+      }
+    ]
+  },
+  {
+    "slide_number": 5,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Description And Set-up :"
+      },
+      {
+        "type": "paragraph",
+        "text": "This backend-focused project involved building a Tornado-based Python web app that allows users to upload files and view extracted metadata. Upon upload, the app asynchronously handles files, extracts details like filename, file size, creation/modification timestamps, and character count (for text files) using the os and time modules. The data is then stored in a PostgreSQL database through the psycopg2 library. The app was fully containerized using Docker, allowing deployment on any environment. A minimal HTML interface was created for file upload testing without using external tools like Postman. RESTful endpoints were defined for both upload and metadata retrieval. This project enhanced understanding of non-blocking I/O, database integration, and DevOps tools like Docker."
+      }
+    ]
+  },
+  {
+    "slide_number": 6,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Backend Challenges and Solutions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Challenges in handling large files and database efficiency."
+      },
+      {
+        "type": "paragraph",
+        "text": "Unexplored framework"
+      },
+      {
+        "type": "paragraph",
+        "text": "Asynchronous processing in Tornado."
+      },
+      {
+        "type": "paragraph",
+        "text": "New Database"
+      },
+      {
+        "type": "paragraph",
+        "text": "Optimized PostgreSQL queries and indexing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Deployment"
+      },
+      {
+        "type": "paragraph",
+        "text": "Docker and Jenkins CI/CD pipeline."
+      }
+    ]
+  },
+  {
+    "slide_number": 7,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Frontend: Job Posting Portal"
+      },
+      {
+        "type": "paragraph",
+        "text": "Developed a React-based hiring platform for a client. Streamlined job posting, candidate tracking, and application management."
+      },
+      {
+        "type": "paragraph",
+        "text": "Key Features"
+      },
+      {
+        "type": "paragraph",
+        "text": "Admin job listings, candidate progress, assessments."
+      },
+      {
+        "type": "paragraph",
+        "text": "Design"
+      },
+      {
+        "type": "paragraph",
+        "text": "Intuitive, professional, and responsive UI."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tech Stack"
+      },
+      {
+        "type": "paragraph",
+        "text": "React.js, Tailwind CSS, Redux, REST APIs."
+      },
+      {
+        "type": "paragraph",
+        "text": "Website link :- https://assessment-kappa-two.vercel.app/"
+      }
+    ]
+  },
+  {
+    "slide_number": 8,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Description And Set-up :"
+      },
+      {
+        "type": "paragraph",
+        "text": "Developed a modular and responsive job management system using React.js for a client to streamline recruitment processes. The platform includes three key modules: Admin Login, Job Management, and Assessment Setup. Admins can create, edit, and delete job listings, track candidate applications, and assign assessments. All job data and assessments are handled via localStorage, simulating backend functionality during the development phase. The UI was built using Tailwind CSS, ensuring mobile responsiveness and a clean, intuitive layout. Navigation was implemented with React Router, and state was managed using Redux for seamless form handling and dynamic updates. The system is designed to be backend-ready for future API integration."
+      }
+    ]
+  },
+  {
+    "slide_number": 9,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Frontend Challenges and Solutions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ensuring UI intuitiveness and efficient state management."
+      },
+      {
+        "type": "paragraph",
+        "text": "Client Requirement "
+      },
+      {
+        "type": "paragraph",
+        "text": "It was the first time I was dealing with a client and it was a new experience of fulfilling the requirements of the client. "
+      },
+      {
+        "type": "paragraph",
+        "text": "State Management"
+      },
+      {
+        "type": "paragraph",
+        "text": "Redux for seamless handling."
+      },
+      {
+        "type": "paragraph",
+        "text": "Collaboration in a company environment "
+      },
+      {
+        "type": "paragraph",
+        "text": "Understanding the workflow of the company. Also, made a blunder of pushing changes in the main repository. "
+      }
+    ]
+  },
+  {
+    "slide_number": 10,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Cloud: Setting up VPCs"
+      },
+      {
+        "type": "paragraph",
+        "text": "Developed a React-based hiring platform for a client. Streamlined job posting, candidate tracking, and application management."
+      },
+      {
+        "type": "paragraph",
+        "text": "Key Features"
+      },
+      {
+        "type": "paragraph",
+        "text": "Custom VPC, 2 AZs, Public & Private Subnets, NAT Gateway, ALB, S3 Endpoint, Security Groups"
+      },
+      {
+        "type": "paragraph",
+        "text": "Design"
+      },
+      {
+        "type": "paragraph",
+        "text": "ALB to EC2 in private subnets, Auto Scaling, Secure internet via NAT, Route tables for traffic flow"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tech Stack"
+      },
+      {
+        "type": "paragraph",
+        "text": "EC2, VPC, ALB, NAT Gateway, ASG, S3 Endpoint, IAM, Security Groups"
+      }
+    ]
+  },
+  {
+    "slide_number": 11,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Description And Set-up :"
+      },
+      {
+        "type": "paragraph",
+        "text": "The VPC setup involved creating a custom Virtual Private Cloud with public and private subnets distributed across two Availability Zones to ensure high availability. Public subnets hosted the Application Load Balancer (ALB) and NAT Gateways, while private subnets securely housed EC2 instances without direct internet access. The ALB routed incoming traffic to these backend instances, and outbound internet access was enabled through the NAT Gateways. An S3 Gateway Endpoint allowed private instances to access S3 without using the public internet. The setup was secured using IAM roles and Security Groups, and auto scaling ensured dynamic resource allocation based on traffic."
+      }
+    ]
+  },
+  {
+    "slide_number": 12,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Cloud Challenges and Solutions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Networking Complexity"
+      },
+      {
+        "type": "paragraph",
+        "text": "Initial difficulty in understanding subnets, route tables, and NAT Gateway configuration. Solved through AWS documentation and hands-on practice. "
+      },
+      {
+        "type": "paragraph",
+        "text": "Private Subnet Internet Access"
+      },
+      {
+        "type": "paragraph",
+        "text": "Faced issues allowing private EC2 instances to access the internet. Fixed by setting up NAT Gateway and updating route tables."
+      },
+      {
+        "type": "paragraph",
+        "text": "Security Group Misconfiguration"
+      },
+      {
+        "type": "paragraph",
+        "text": "Encountered blocked traffic due to strict rules. Resolved by defining appropriate inbound/outbound rules following least privilege."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ensuring secure, scalable infrastructure with efficient traffic flow."
+      }
+    ]
+  },
+  {
+    "slide_number": 13,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Frontend: Career Vyas Website"
+      },
+      {
+        "type": "paragraph",
+        "text": "Built a mentorship-driven ed-tech platform for JEE/NEET aspirants. Enabled student-mentor interaction, session booking, and resource access."
+      },
+      {
+        "type": "paragraph",
+        "text": "Key Features"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mentor profiles, demo session booking, blogs, student dashboard."
+      },
+      {
+        "type": "paragraph",
+        "text": "Design"
+      },
+      {
+        "type": "paragraph",
+        "text": "Clean, accessible, mobile-responsive with server-side rendering."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tech Stack"
+      },
+      {
+        "type": "paragraph",
+        "text": "Next.js, Tailwind CSS, React, Node.js, REST APIs"
+      },
+      {
+        "type": "paragraph",
+        "text": "Website link :- https://website-peach-eta.vercel.app/"
+      }
+    ]
+  },
+  {
+    "slide_number": 14,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Description And Set-up :"
+      },
+      {
+        "type": "paragraph",
+        "text": "Designed and developed a full-stack mentorship platform called Career Vyas using Next.js, targeting JEE/NEET aspirants. The site enables students to explore mentor profiles, book 1-on-1 sessions, and read exam-prep blogs. Developed with a strong focus on server-side rendering for better SEO and performance. Dynamic routing was used to handle blog pages and user flows efficiently. The frontend was built with Tailwind CSS for a clean, responsive design. Backend logic, including form submissions and session data handling, was managed using Next.js API routes. In addition to development, the project involved operational setup \u2014 including recruiting mentors from IITs and AIIMS and structuring the mentorship process. Future expansion plans include adding college reviews, institutional data, and a mobile app, for which a complete Figma design has already been finalized."
+      }
+    ]
+  },
+  {
+    "slide_number": 15,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Frontend Challenges and Solutions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Building a dynamic mentorship platform with seamless routing and user interaction."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dynamic Routing & SEO "
+      },
+      {
+        "type": "paragraph",
+        "text": "Implemented server-side rendering and dynamic routes using Next.js. Ensured fast load times and search engine friendliness."
+      },
+      {
+        "type": "paragraph",
+        "text": "User Experience Design"
+      },
+      {
+        "type": "paragraph",
+        "text": "Faced difficulty in organizing mentor-student flow. Solved by iterating UI with real user feedback and clean layout using Tailwind CSS."
+      },
+      {
+        "type": "paragraph",
+        "text": "API Integration & State Handling"
+      },
+      {
+        "type": "paragraph",
+        "text": "Managed multiple async API calls for sessions and blogs. Used React hooks and context for smooth data handling and UI updates."
+      }
+    ]
+  },
+  {
+    "slide_number": 16,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Key Learnings and Growth"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hands-on experience in backend and frontend development. Improved skills in database management and UI design."
+      },
+      {
+        "type": "paragraph",
+        "text": "Backend"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tornado, asynchronous processing, PostgreSQL."
+      },
+      {
+        "type": "paragraph",
+        "text": "Frontend"
+      },
+      {
+        "type": "paragraph",
+        "text": "React.js, Redux, UI design, CI/CD."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cloud"
+      },
+      {
+        "type": "paragraph",
+        "text": "Custom VPC, 2 AZs, Public & Private Subnets, NAT Gateway, ALB, S3 Endpoint, Security Groups"
+      }
+    ]
+  },
+  {
+    "slide_number": 17,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tremendous learning experience at Servon Solution. Enhanced problem-solving skills and growth as a full-stack developer."
+      },
+      {
+        "type": "paragraph",
+        "text": "Real-World Projects"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enhanced Skills"
+      },
+      {
+        "type": "paragraph",
+        "text": "Professional Growth"
+      }
+    ]
+  },
+  {
+    "slide_number": 18,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Acknowledgments"
+      },
+      {
+        "type": "paragraph",
+        "text": "Grateful to mentors, team members, and the organization. Thank you for guidance and support."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mentors"
+      },
+      {
+        "type": "paragraph",
+        "text": "Organization"
+      },
+      {
+        "type": "paragraph",
+        "text": "Garvit Gupta, Co-founder "
+      },
+      {
+        "type": "paragraph",
+        "text": "Servon Solution LLP"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supervisor"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dr. Anil Kumar Yadav, NITJ"
+      }
+    ]
+  },
+  {
+    "slide_number": 19,
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Thank You!"
+      }
+    ]
+  }
+]
