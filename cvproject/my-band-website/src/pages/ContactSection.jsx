@@ -27,12 +27,12 @@ const ContactPage = () => {
         {/* Images Side by Side */}
         <div className="absolute right-0 top-0 bottom-0 w-1/2 hidden md:flex">
           <img
-            src="/public/ContactSection/@pexrljam · rock wallpaper's.jpeg"
+            src="/ContactSection/@pexrljam · rock wallpaper's.jpeg"
             alt="The Blacks band 1"
             className="h-full w-1/2 object-cover opacity-90"
           />
           <img
-            src="/public/ContactSection/Rock Wallpapers.jpeg"
+            src="/ContactSection/Rock Wallpapers.jpeg"
             alt="The Blacks band 2"
             className="h-full w-1/2 object-cover opacity-90"
           />
