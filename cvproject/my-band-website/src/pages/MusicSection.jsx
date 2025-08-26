@@ -12,9 +12,9 @@ const MusicSection = () => {
   });
 
   const albums = [
-    { id: 1, title: "Echoes of the Void", releaseDate: "Oct 2024", imageUrl: "/public/MusicSection/—Pngtree—electronic music album_1301130.jpg" },
-    { id: 2, title: "Infinite Descent", releaseDate: "Jan 2024", imageUrl: "/public/MusicSection/WhatsApp Image 2025-08-26 at 02.34.10.jpeg" },
-    { id: 3, title: "The Unseen Pulse", releaseDate: "May 2023", imageUrl: "/public/MusicSection/568873-Music-vinyl-album-covers-John-Lennon-2560x1440.jpg" },
+    { id: 1, title: "Echoes of the Void", releaseDate: "Oct 2024", imageUrl: "/MusicSection/—Pngtree—electronic music album_1301130.jpg" },
+    { id: 2, title: "Infinite Descent", releaseDate: "Jan 2024", imageUrl: "/MusicSection/WhatsApp Image 2025-08-26 at 02.34.10.jpeg" },
+    { id: 3, title: "The Unseen Pulse", releaseDate: "May 2023", imageUrl: "/MusicSection/568873-Music-vinyl-album-covers-John-Lennon-2560x1440.jpg" },
   ];
   
   useEffect(() => {
