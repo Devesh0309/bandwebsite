@@ -17,7 +17,7 @@ const useIntersectionObserver = (options) => {
     elements.forEach(el => {
       if (el) observer.observe(el);
     });
-
+   //new
     return () => {
       elements.forEach(el => {
         if (el) observer.unobserve(el);
